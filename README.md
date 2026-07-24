@@ -2,7 +2,7 @@
 
 CrackerTeen is a pentest tool that check the strength of the user accounts passwords,
 It inherits its functionality or idea from Hydra but CrackerTeen works on GUIs not just by 
-sending packets to apply the job,  We can apply it with Browser or any normal GUI.
+sending packets to perform the job,  We can apply it on Browser or any normal GUI.
 
 Future work:
 I will increase its functions and ability to work with packets and craft packets to apply
